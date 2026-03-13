@@ -1,2 +1,2 @@
-# C_Playground
-playground for C language
+# CPP_Playground
+playground for CPP language
