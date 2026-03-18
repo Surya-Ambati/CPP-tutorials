@@ -1,2 +1,2 @@
-# CPP_Playground
+# CPP Tutorials
 playground for CPP language
